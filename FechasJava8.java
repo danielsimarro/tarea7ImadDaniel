@@ -11,6 +11,9 @@ import java.time.LocalDate;
 import java.time.LocalDateTime;
 // Enumerado para los meses del año (Enero, ...)
 import java.time.Month;
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 import java.time.MonthDay;
 import java.time.Period;
 import java.time.YearMonth;
@@ -21,6 +24,12 @@ import java.time.temporal.ChronoUnit;
 import java.util.Locale;
 =======
 >>>>>>> parent of 30e65bf (Suma y resta de fechas)
+=======
+>>>>>>> parent of 67ee45f (Ejemplo clase MonthDay)
+=======
+>>>>>>> parent of 67ee45f (Ejemplo clase MonthDay)
+=======
+>>>>>>> parent of 67ee45f (Ejemplo clase MonthDay)
 
 /**
  *
@@ -58,6 +67,9 @@ public class FechasJava8 {
         
         // Método isBefore()
         
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
         /* EJEMPLO CON LA CLASE MONTHDAY */
         // Sólo guarda el día y el mes (no el año)
         LocalDate diaAnda = LocalDate.of(1976, Month.FEBRUARY, 28);
@@ -169,6 +181,21 @@ public class FechasJava8 {
         
 =======
 >>>>>>> parent of 30e65bf (Suma y resta de fechas)
+=======
+        /* EJEMPLO CON LA CLASE MOTHDAY */
+        
+        
+>>>>>>> parent of 67ee45f (Ejemplo clase MonthDay)
+=======
+        /* EJEMPLO CON LA CLASE MOTHDAY */
+        
+        
+>>>>>>> parent of 67ee45f (Ejemplo clase MonthDay)
+=======
+        /* EJEMPLO CON LA CLASE MOTHDAY */
+        
+        
+>>>>>>> parent of 67ee45f (Ejemplo clase MonthDay)
     }
     
 }
